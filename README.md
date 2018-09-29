@@ -1,0 +1,1 @@
+这是一个实现了ES6 Promise对象的基本功能（回调执行函数resolve,reject和then()方法）的架子
